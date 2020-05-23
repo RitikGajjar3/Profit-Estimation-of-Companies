@@ -44,6 +44,9 @@ Jupyter notebook (IPython)
 2. Clone your copy on your local system
 3. Install necessary packages
 
+## 📚 Reference
+- GIF: https://1s4j2bpf2fh1jsx9w48bv3i1-wpengine.netdna-ssl.com/wp-content/uploads/2017/06/increase-profits-amazon.gif
+
 ## 📜 License
 
 This software is licensed under the [MIT](https://github.com/RitikGajjar3/Used-BMW-cars-Price-Prediction/blob/master/LICENSE)
