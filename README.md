@@ -34,7 +34,7 @@ The dataset contains Five columns given as below.
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 #### Packages
-Anaconda, Graphlab Create [Installation guide](https://turi.com/learn/coursera/)
+Anaconda
 
 #### Tools/IDE 
 Jupyter notebook (IPython)
