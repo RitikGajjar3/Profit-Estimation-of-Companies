@@ -53,7 +53,7 @@ Jupyter notebook (IPython)
 
 ## 📜 License
 
-This software is licensed under the [MIT](https://github.com/RitikGajjar3/Used-BMW-cars-Price-Prediction/blob/master/LICENSE)
+This software is licensed under the [MIT](https://github.com/RitikGajjar3/Profit-Estimation-of-Companies-Notebook/blob/master/LICENSE)
 
 MIT © RitikGajjar3
 
